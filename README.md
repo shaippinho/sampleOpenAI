@@ -1,6 +1,3 @@
-# sampleOpenAI
-First sample with OpenAI
-
 # Meu primeiro projeto com Spring Boot e OpenAI
 
 ## Tecnologias
